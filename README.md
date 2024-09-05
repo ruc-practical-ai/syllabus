@@ -206,3 +206,59 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * Suggested techniques
 * The role of the environment
 * Suggestions for offense and defense
+
+## Course References
+
+This course will be taught from current literature. References will be distributed throughout the semester. There is no required textbook.
+
+## Ethical Use of AI Technologies and Large Language Models
+
+Large Language Models (LLMs), e.g., ChatGPT, and other AI technologies are powerful tools that are accessible to all. While you are not prohibited from using these tools to facilitate and enhance your learning experience, **you are strictly prohibited from using these tools to perform your work for you**.
+
+Using these tools to complete assignments and/or assigned tasks is unproductive for learning and indicates a insufficient knowledge of the core material required to properly review the outputs of those AI tools for accuracy and safety. Understanding core material before applying AI to help expedite generation of tools and results is a key tenet of the ethical use of AI in industry and academia.
+
+To elaborate on this, we will (repeatedly) make an analogy to Veterinary Dentists, and the interests we all have in ensuring those who operate on our pets are qualified to do so! To perform oral surgery on our pets, holding only the qualifications of a veterinarian or only the qualifications of a dentist is insufficient. Both degrees must be held. Similarly, to apply AI for critical applications in science and engineering, practitioners must be experts in *both* the AI techniques being applied, and the domain of application. In our discussions around the ethical use of AI in this course, we will call this the *Veterinary Dentist Law*.
+
+**Using AI technologies in any way which immediately violates the Veterinary Dentist Law or puts you on a trajectory to increase your probability of violating the Veterinary Dentist Law in the future is considered in violation of the academic integrity policy for this course**. If an AI tool is found to be used in such a manner for any work in this course, a grade of 0 will be given for that work. No exceptions will be made.
+
+Example violations of the Veterinary Dentist law include the following.
+
+In this course:
+* Use of AI to write code for you. This prevents you from learning how to apply the underlying techniques.
+
+In industry, outside the context of this course:
+* Use of AI in a critical application (e.g., medicine) without any team members having knowledge of that application (the team is only qualified in AI, but not in medicine).
+* Use of AI in a critical application (e.g., medicine) with *only* knowledge of the application, and no knowledge of AI on the team (the team is only qualified in medicine, but not in AI). In industry, this risk is mitigated through AI training (of humans, not of models in this case!) and standards, the same as training and standards compliance are required to operate heavy machinery.
+
+Always:
+* Blind application of AI to a problem and use of results therefrom without researching and citing prior work around that problem. (See the following section on academic integrity.)
+
+## University Policies on Academic Integrity
+
+Principles of academic integrity require that every Rutgers University student:
+
+* properly acknowledge and cite all use of the ideas, results, or words of others
+* properly acknowledge all contributors to a given piece of work
+* make sure that all work submitted as his or her own in a course or other academic activity is produced without the aid of unsanctioned materials or unsanctioned collaboration
+* obtain all data or results by ethical means and report them accurately without suppressing any results inconsistent with his or her * interpretation or conclusions
+* treat all other students in an ethical manner, respecting their integrity and right to pursue their educational goals without interference. This requires that a student neither facilitate academic dishonesty by others nor obstruct their academic progress
+* uphold the canons of the ethical or professional code of the profession for which he or she is preparing.
+
+Adherence to these principles is necessary in order to insure that:
+
+* everyone is given proper credit for his or her ideas, words, results, and other scholarly accomplishments
+* all student work is fairly evaluated and no student has an inappropriate advantage over others
+* the academic and ethical development of all students is fostered
+* the reputation of the University for integrity in its teaching, research, and scholarship is maintained and enhanced.
+
+Failure to uphold these principles of academic integrity threatens both the reputation of the University and the value of the degrees awarded to its students. Every member of the University community therefore bears a responsibility for ensuring that the highest standards of academic integrity are upheld.
+
+Infractions are not taken lightly and will fully be pursued. For additional information, visit [http://academicintegrity.rutgers.edu/](http://academicintegrity.rutgers.edu/)
+
+## University Policies on Disabilities
+
+Rutgers University welcomes students with disabilities into all of the University's educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation:
+
+[https://ods.rutgers.edu/students/documentation-guidelines](https://ods.rutgers.edu/students/documentation-guidelines).
+
+If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. To begin this process, please complete the Registration form at [https://webapps.rutgers.edu/student-ods/forms/registration](https://webapps.rutgers.edu/student-ods/forms/registration).
