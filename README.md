@@ -4,11 +4,11 @@
 
 **Time**: Thursday 6:00 pm – 8:50 pm
 
-**Location**: ATG/ARM-210
+**Location**: ATG/ARM-201
 
-**Office Hours**: Mondays, 5:00 - 6:00 pm in ARM/ARM-312
+**Office Hours**: Mondays, 5:00 - 6:00 pm in ATG/ARM-312
 
-**GitHub Classroom**: [https://scheduling.rutgers.edu/scheduling/academic-calendar](https://github.com/ruc-practical-ai)
+**GitHub Classroom**: [https://classroom.github.com/classrooms/179165335-ruc-practical-ai-classroom](https://classroom.github.com/classrooms/179165335-ruc-practical-ai-classroom)
 
 More information on fall semester schedules:
 * [https://scheduling.rutgers.edu/scheduling/academic-calendar](https://scheduling.rutgers.edu/scheduling/academic-calendar)
