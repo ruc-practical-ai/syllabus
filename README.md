@@ -26,7 +26,7 @@ This is a hands-on, coding-heavy course. Bringing your own computer is highly re
 
 ### Where to Find This Syllabus
 
-The latest copy of this syllabus is always available online in our class GitHub at TODO(MJS):LINK. If you are referencing a hard copy, be sure to check that link for the latest version.
+The latest copy of this syllabus is always available online in our class GitHub at [https://github.com/ruc-practical-ai/syllabus](https://github.com/ruc-practical-ai/syllabus). If you are referencing a hard copy, be sure to check that link for the latest version.
 
 ## Course Description
 
@@ -54,10 +54,8 @@ Students should be comfortable modifying code and should be ready to learn to wr
 
 Several guides are provided to help students with this course.
 
-* Setting up a development environment: TODO(MJS): LINK
-* Using GitHub Codespaces: TODO(MJS): LINK
-* Using Amazon Web Services: TODO(MJS): LINK
-* Starting and completing assignments: TODO(MJS): LINK
+* Setting up a development environment: [https://github.com/ruc-practical-ai/development-environment-setup](https://github.com/ruc-practical-ai/development-environment-setup)
+* Using GitHub Codespaces: [https://github.com/ruc-practical-ai/codespaces-tutorial](https://github.com/ruc-practical-ai/codespaces-tutorial)
 
 ## Grading Policy
 
