@@ -4,9 +4,9 @@
 
 **Time**: Thursday 6:00 pm – 8:50 pm
 
-**Location**: ATG/ARM-201
+**Location**: BSB 116
 
-**Office Hours**: Mondays, 5:00 - 6:00 pm in ATG/ARM-312
+**Office Hours**: Fridays, BSB 116 (anytime)
 
 **GitHub Classroom**: [https://classroom.github.com/classrooms/179165335-ruc-practical-ai-classroom](https://classroom.github.com/classrooms/179165335-ruc-practical-ai-classroom)
 
