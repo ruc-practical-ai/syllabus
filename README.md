@@ -91,10 +91,10 @@ There will be a handful of opportunities for extra credit, potentially to includ
 
 Our week-to-week schedule is organized as follows, though it is subject to change depending on class pace and interests. Assignments and quizzes will always be announced at least one week in advance. Special topics of interest to students may be discussed.
 
-#### 09/05 - 09/12: Course introduction, Mathematical Fundamentals
+#### 09/05 - 09/12: Course introduction and Fundamentals
 * Course introduction and motivation
 * Statistics
-* Linear algebra, Linear and nonlinear functions, Optimization
+* Linear algebra, linear and nonlinear functions, optimization
 * Correlation, fitting, and mutual information
 * The end-to-end machine learning operations lifecycle
     * Data augmentation and data transformation
@@ -110,7 +110,7 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * Git / GitLab
 * Review of compilers vs. interpreters
 * C++ basics
-* Brief introduction to tools used: scikit-learn, torch, torch lightning and torch thunder, pandas, matplotlib, numpy, CUDA, cupy, Open Neural Network Exchange (ONNX), Continuous Integration / Continuous Deployment, unit testing with pytest
+* Brief introduction to tools used: numpy, scikit-learn, torch, pandas, matplotlib, Open Neural Network Exchange (ONNX), Continuous Integration / Continuous Deployment, unit testing with pytest
 * Software hygiene
 
 #### 09/26: Machine Learning Basics
