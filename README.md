@@ -83,7 +83,7 @@ There will be a handful of opportunities for extra credit, potentially to includ
 ### Course Outline
 
 * **09/05**: First day of class
-* **10/17**: Midterm Exam
+* **11/07**: Midterm Exam
 * **11/28 - 12/1**: Thanksgiving break
 * **12/05**: Last day of class
 * **12/06-12/19**: Fall reading period and exams (final project working time)
@@ -91,38 +91,29 @@ There will be a handful of opportunities for extra credit, potentially to includ
 
 Our week-to-week schedule is organized as follows, though it is subject to change depending on class pace and interests. Assignments and quizzes will always be announced at least one week in advance. Special topics of interest to students may be discussed.
 
-#### 09/05: Class 01 - Course introduction, Mathematical Fundamentals
+#### 09/05 - 09/12: Course introduction, Mathematical Fundamentals
 * Course introduction and motivation
 * Statistics
-* Linear algebra
-* Linear and nonlinear functions
-* Optimization
+* Linear algebra, Linear and nonlinear functions, Optimization
 * Correlation, fitting, and mutual information
-* Transforms
+* The end-to-end machine learning operations lifecycle
+    * Data augmentation and data transformation
+    * Model selection
+    * Regularization and bias mitigation
+    * Explainability
+    * Robustness testing
+    * Model monitoring
 
-#### 09/12: Class 02 - History and Background of Modern Deep Learning Techniques
-* Hodgkin and Huxley
-* Perceptrons and XOR problem
-* Backpropagation
-* Universal Approximation
-* Autoencoding
-* Convolutional Neural Networks
-* Deep Dream
-* Attention
-* Google Circuits Project (explainable AI introduction)
-
-#### 09/19: Class 03 - Programming Fundamentals
+#### 09/19: Programming Fundamentals
 * Bash
 * Python, Jupyter and associated libraries
 * Git / GitLab
 * Review of compilers vs. interpreters
 * C++ basics
-* Tools of the trade: scikit-learn, torch, torch lightning and torch thunder, pandas, matplotlib, numpy, CUDA, cupy, Open Neural Network Exchange (ONNX)
-* Continuous Integration / Continuous Deployment
-* Unit Testing
+* Brief introduction to tools used: scikit-learn, torch, torch lightning and torch thunder, pandas, matplotlib, numpy, CUDA, cupy, Open Neural Network Exchange (ONNX), Continuous Integration / Continuous Deployment, unit testing with pytest
 * Software hygiene
 
-#### 09/26: Class 04 - Machine Learning Basics
+#### 09/26: Machine Learning Basics
 * Separation of training and testing data
 * The necessity of data diversity
 * Data drift
@@ -131,7 +122,14 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * The need to automate model training
 * Basic model evaluation metrics
 
-#### 10/03: Class 05 - Advanced Data Input and Output Considerations
+#### 10/03: Deeper Look at Tools
+* Data loading with torch
+* Data transformation with torch
+* Explainability with Captum
+* Model export with ONNX and model inference with ONNX runtime
+* Model visualization
+
+#### 10/17: Advanced Data Input and Output Considerations
 * Understanding signal to noise ratio (SNR) considerations
 * Time series data collection
 * Imagery data collection
@@ -139,7 +137,7 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * How radios work
 * Know your actuator
 
-#### 10/10: Class 06 - Formulating an AI Project
+#### 10/24: Formulating an AI Project
 * Developing a use case for AI techniques (with special emphasis on deep learning)
 * AI incidents and AI ethics
 * Avoiding unintended negative consequences
@@ -148,9 +146,7 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * Selecting data sources
 * Understanding how the output will be used
 
-#### 10/17: Mid-term Examination
-
-#### 10/24: Class 07 - AI System Design
+#### 10/31: AI System Design
 * Understanding clean, noisy, and pre-processed data
 * Data quality and data cleaning techniques
 * Preprocessing techniques
@@ -158,18 +154,9 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * Identifying who will use the outputs of a model
 * Guardrails
 
-#### 10/31: Class 08 - Machine Learning Operations Lifecycle
-* The end-to-end machine learning operations lifecycle
-* Data augmentation
-* Data transformation
-* Model selection
-* Regularization and bias mitigation
-* Explainability
-* Model monitoring
-* Robustness testing
-* Software testing and CI/CD
+#### 11/07: Mid-term Examination
 
-#### 11/07: Class 09 - Explainable AI (XAI)
+#### 11/14: Explainable AI (XAI) In-Depth
 * Global vs. local explainability
 * Surrogate models
 * Symbolic regression
@@ -178,7 +165,7 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * Neuron by neuron attribution (circuits project)
 * DeepDream
 
-#### 11/14: Class 10 - Robustness
+#### 11/21: Robustness
 * Handling noise
 * Handling confounders
 * Sparse data
@@ -192,7 +179,7 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
     * Adversarial training
     * Multiple models
 
-#### 11/21: Class 11 - Putting it All Together: AI System Examples
+#### Thanksgiving week: Special Topics and AI System Examples (Final Project Preparation)
 * Image classification
 * Time series classification
 * Flight control
@@ -206,6 +193,17 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
 * Suggested techniques
 * The role of the environment
 * Suggestions for offense and defense
+
+#### Special Topics: History and Background of Modern Deep Learning Techniques
+* Hodgkin and Huxley
+* Perceptrons and XOR problem
+* Backpropagation
+* Universal Approximation
+* Autoencoding
+* Convolutional Neural Networks
+* Deep Dream
+* Attention
+* Google Circuits Project (explainable AI introduction)
 
 ## Course References
 
